@@ -1,6 +1,6 @@
 {
   "name": "dekross-css-reset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customized Eric Meyer's CSS Reset",
   "main": "reset.css",
   "repository": "https://github.com/ndekross/reset.git",
